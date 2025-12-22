@@ -1,0 +1,8 @@
+{
+  "name": "EduPro - Live MCQ & AI Teacher Platform",
+  "description": "A comprehensive educational platform featuring AI-powered chat, live MCQ exams with detailed explanations, professional teacher listings, and video lectures.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
